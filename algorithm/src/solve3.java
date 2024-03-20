@@ -7,7 +7,6 @@ public class solve3 {
 
         System.out.println(solution(nums));
     }
-
     public static int solution(int[] nums) {
         int answer = 0;
         Map<Integer, Integer> map = new HashMap<>();
